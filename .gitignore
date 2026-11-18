@@ -1,7 +1,8 @@
-01_Data.txt
+data/
 Results/
 Rplots.pdf
 .DS_Store
 .Rhistory
 .RData
 .Rproj.user/
+.ipynb_checkpoints/
